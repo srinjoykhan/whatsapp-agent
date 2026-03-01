@@ -1,0 +1,7 @@
+Flask
+requests
+python-dotenv
+langchain
+langchain-huggingface
+huggingface-hub
+gunicorn
